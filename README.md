@@ -46,18 +46,6 @@
       axios for JSON data fetching
 
 
-### Are there any improvements you could make to your submission?
-
-    There is always room for imporvement for any project . With discussion  and feedback surely
-    we can identify the  problems (if any) in the application.
-
-
-### What would you do differently if you were allocated more time?
-    1. Add user  
-    2. Add youtube link of trailer of those movies or series provided by json file and auto play them when mouse is hover over them
-    3. Provide a random select button which selects the most appropriate and unwatched movie/series according to your genre 
-    4. Adding a push Notification system for newly added shows and movies
-
     
 
     
